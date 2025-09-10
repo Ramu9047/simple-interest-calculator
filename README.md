@@ -12,3 +12,5 @@ Where:
 ## How to Run
 ```bash
 bash simple-interest.sh
+This line was added in bug-fix-typo branch for testing merge.
+
